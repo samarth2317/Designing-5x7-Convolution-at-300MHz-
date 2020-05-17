@@ -1,0 +1,10 @@
+runc5x72 script run started on Wed Mar  4 21:32:31 2020
+run on machine coe-ee-cad21.sjsuad.sjsu.edu
+
+Run with a clock period of 4.0
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the c5x72 run

@@ -1,0 +1,16 @@
+s1(04Mar2020:18:33:46):  ncverilog +access+r tb5x72.sv 
+s2(04Mar2020:18:35:46):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s3(04Mar2020:19:54:07):  ncverilog +access+r tb5x72.sv 
+s4(04Mar2020:19:54:53):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s5(04Mar2020:20:25:47):  ncverilog +access+r tb5x72.sv 
+s6(04Mar2020:20:26:34):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s7(04Mar2020:20:46:14):  ncverilog +access+r tb5x72.sv 
+s8(04Mar2020:20:47:00):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s9(04Mar2020:21:08:53):  ncverilog +access+r tb5x72.sv 
+s10(04Mar2020:21:09:41):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s11(04Mar2020:21:19:13):  ncverilog +access+r tb5x72.sv 
+s12(04Mar2020:21:20:05):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s13(04Mar2020:21:21:20):  ncverilog +access+r tb5x72.sv 
+s14(04Mar2020:21:22:03):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
+s15(04Mar2020:21:32:51):  ncverilog +access+r tb5x72.sv 
+s16(04Mar2020:21:33:40):  ncverilog +libext+.tsbvlibp +access+r -y /apps/toshiba/sjsu/verilog/tc240c tb5x72_gates.sv +define+CTime=4.0 
